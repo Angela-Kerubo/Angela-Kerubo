@@ -6,5 +6,5 @@
   - JavaScript
   - Python
 - 👯 I’m looking to collaborate on anyone on various projects
-- 📫 How to reach me: nkerubo.angela@gmail.com 
+- 📫 Reach me on: nkerubo.angela@gmail.com 
 
