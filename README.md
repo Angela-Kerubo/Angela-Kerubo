@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Angela
 
 - 🌱 I am currently learning Python
 - 👯 I’m looking to collaborate on anyone on various projects
