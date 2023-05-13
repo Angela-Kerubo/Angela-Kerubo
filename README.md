@@ -4,6 +4,8 @@
 - 👯 I’m looking to collaborate on anyone on various projects
 - 📫 Reach me on: nkerubo.angela@gmail.com 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=angelakerubo&label=Profile%20views&color=0e75b6&style=flat" alt="angelakerubo" /> </p>
+
 ### Connect with me:
 
 [<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />](https://twitter.com/Angie_kerubo_)
@@ -18,7 +20,7 @@
  
  <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/AngelaKerubo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" 
-alt="AngelaKerubo" /></a></p><br><br>
+alt="AngelaKerubo" /></a><a href="https://ko-fi.com/AngelaKerubo"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AngelaKerubo"</a></p><br><br>
 
 ---
 
