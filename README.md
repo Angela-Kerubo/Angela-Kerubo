@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Angela!+🙂;Nice+to+meet+you!+🙂&center=true&size=30&color=9370DB">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Angela!;Nice+to+meet+you!+🙂&center=true&size=30&color=9370DB">
 </h1>
 
 - 👯 I’m looking to collaborate on anyone on various projects
