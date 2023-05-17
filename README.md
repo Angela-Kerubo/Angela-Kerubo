@@ -21,11 +21,10 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
- 
- <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/AngelaKerubo"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AngelaKerubo"</a></p><br><br>
-
 ---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angela-kerubo&show_icons=true&locale=en&theme=dark" alt="angelakerubo" /></p>
 
+
+ <h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/AngelaKerubo"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AngelaKerubo"</a></p><br><br>
