@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />](https://twitter.com/Angie_kerubo_)
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/angela-kerubo-96b4b724a/)<br>
+<a href="https://twitter.com/Angie_kerubo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ninja_webtech" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/angela-kerubo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thevikramchoudhary" height="30" width="40" /></a><br>
 
 
 <h3 align="left">Languages and Tools:</h3>
