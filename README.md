@@ -1,9 +1,11 @@
-### Hi there 👋 I'm Angela
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Angela!+🙂;Nice+to+meet+you!+🙂&center=true&size=30&color=9370DB">
+</h1>
 
 - 👯 I’m looking to collaborate on anyone on various projects
 - 📫 Reach me on: nkerubo.angela@gmail.com 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=angelakerubo&label=Profile%20views&color=0e75b6&style=flat" alt="angelakerubo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=angelakerubo&label=Profile%20views&color=9F2B68&style=flat" alt="angelakerubo" /> </p>
 
 ### Connect with me:
 
