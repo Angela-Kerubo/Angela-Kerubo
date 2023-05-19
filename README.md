@@ -1,5 +1,5 @@
 <h1 align="center">
-     Hi, I'm Angela
+     Hi, I'm Angela👋
 </h1>
 
 - 👯 I’m looking to collaborate on anyone on various projects
