@@ -4,7 +4,6 @@
 
 - 👯 I’m looking to collaborate on anyone on various projects
 - 📫 Reach me on: nkerubo.angela@gmail.com 
-<img align='right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelakerubo&label=Profile%20views&color=0e75b6&style=flat" alt="angelakerubo" /> </p>
 
 ### Connect with me:
