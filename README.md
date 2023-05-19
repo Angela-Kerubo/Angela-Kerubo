@@ -27,9 +27,6 @@
         <td align="center">
             <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
         </td>
-        <td align="center">   
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60"/> 
-        </td>
         <td align="center"> 
            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" /> 
         </td>
