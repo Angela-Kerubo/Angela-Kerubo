@@ -10,7 +10,7 @@
 
 <a href="https://twitter.com/Angie_kerubo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angela-kerubo" height="30" width="60" /></a>
 <a href="https://www.linkedin.com/in/angela-kerubo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angela-kerubo" height="30" width="60" /></a>
-<a href="https://codepen.io/Angela-Kerubo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="angela-kerubo" height="30" width="60" /></a><br>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
