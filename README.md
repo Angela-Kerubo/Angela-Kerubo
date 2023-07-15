@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
      Hi, I'm Angela👋
 </h1>
 
@@ -12,7 +12,8 @@
 <a href="https://www.linkedin.com/in/angela-kerubo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angela-kerubo" height="30" width="60" /></a>
 
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
+
 <table>
     <tr>
         <td align="center">
