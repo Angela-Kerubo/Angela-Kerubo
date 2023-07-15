@@ -1,6 +1,7 @@
 <h1 align="left">
      Hi, I'm Angela👋
 </h1>
+<img align="center"alt="coding" width="800" height="400" src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg">
 
 - 👯 I’m looking to collaborate on anyone on various projects
 - 📫 Reach me on: nkerubo.angela@gmail.com 
