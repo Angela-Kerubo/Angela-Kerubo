@@ -33,10 +33,7 @@
      <tr>
         <td align="center"> 
            <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"/> 
-        </td>
-        <td align="center"> 
-           <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" /> 
-        </td>  
+        </td> 
         <td align="center"> 
            <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" /> 
         </td>
