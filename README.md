@@ -18,32 +18,18 @@
 <table>
     <tr>
         <td align="center">
-            <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
-        </td>
-        <td align="center">
-            <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
-        </td>
-        <td align="center">
-            <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
-        </td>
-        <td align="center">
             <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
         </td>
-     </tr>
-     <tr>
-        <td align="center"> 
-           <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"/> 
-        </td> 
-        <td align="center"> 
-           <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" /> 
+        <td align="center">
+             <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" /> 
         </td>
-        <td align="center"> 
-           <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" /> 
-        </td> 
-                <td align="center"> 
-           <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" /> 
-        </td>   
-   </tr>
+        <td align="center">
+            <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
+        </td>
+        <td align="center">
+            <img src="https://www.vectorlogo.zone/logos/mysql/msql-ar21.svg">
+        </td>
+     </tr>
 </table>
 
 
